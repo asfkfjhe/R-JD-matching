@@ -1,0 +1,8 @@
+fastapi
+PyPDF2
+numpy
+scikit-learn
+yake
+torch
+nltk
+transformers
